@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# IDE crap
+/.idea/
+/cmake-build-debug/
