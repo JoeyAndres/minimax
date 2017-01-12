@@ -1,5 +1,5 @@
 /**
- * sdm - minimax
+ * minimax
  * Copyright (C) 2017  Joey Andres<yeojserdna@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
